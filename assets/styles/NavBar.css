@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Opti&display=swap');
+
+.logo{
+    font-family: 'Kaisei Opti', serif;
+}
+
+.wrap{
+    width: 65%;
+    margin-top: 5px;
+    border:2px solid red;
+}
+
+.searchTerm{
+    width: 75%;
+    outline: none;
+    height: 45px;
+}
+
+.searchButton{
+    width: 1;
+    outline: none;
+    height: 45px;
+    border: none;
+}
